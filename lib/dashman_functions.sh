@@ -6,12 +6,12 @@
 
 # variables are for putting things in ----------------------------------------
 
-C_RED="\e[31m"
-C_YELLOW="\e[33m"
-C_GREEN="\e[32m"
-C_PURPLE="\e[35m"
-C_CYAN="\e[36m"
-C_NORM="\e[0m"
+C_RED=""
+C_YELLOW=""
+C_GREEN=""
+C_PURPLE=""
+C_CYAN=""
+C_NORM=""
 
 
 GITHUB_API_DASH="https://api.github.com/repos/dashpay/dash"
